@@ -2,7 +2,7 @@ package ex_01_Java_Basic;
 
 import java.util.*;
 
-public class Lab003 {
+public class Lab003_sort {
 
     public static void main(String[] args) {
 
