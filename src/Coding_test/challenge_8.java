@@ -11,6 +11,7 @@ public class challenge_8 {
         boolean leapY = false;
         if( a%4 == 0 && a % 100 != 0 || a % 400 == 0){
             leapY = true;
+            
 
         }
         if(leapY){
