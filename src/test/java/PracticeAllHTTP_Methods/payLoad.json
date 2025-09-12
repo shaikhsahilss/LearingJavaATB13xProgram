@@ -1,0 +1,25 @@
+{
+  "responseCode": 0,
+  "responseText": "Success",
+  "divisionNumber": 2160,
+  "customerNumber": 10129203,
+  "productnumberadd":5036896,
+  "productList": [
+    {
+      "productNumber": 1242499,
+      "sequenceNumber": 1
+    },
+    {
+      "productNumber": 1328699,
+      "sequenceNumber": 2
+    },
+    {
+      "productNumber": 1232499,
+      "sequenceNumber": 3
+    },
+    {
+      "productNumber": 1233199,
+      "sequenceNumber": 4
+    }
+  ]
+}
